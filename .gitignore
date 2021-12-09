@@ -1,0 +1,4 @@
+*.csv
+config1.json
+config2.json
+**/__pycache__
